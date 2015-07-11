@@ -1,0 +1,19 @@
+{
+  "name": "todomvc",
+  "version": "1.0.0",
+  "description": "An experiment to play with different technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dumconstantin/todomvc.git"
+  },
+  "author": "Constantin Dumitrescu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dumconstantin/todomvc/issues"
+  },
+  "homepage": "https://github.com/dumconstantin/todomvc#readme"
+}
